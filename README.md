@@ -1,0 +1,1 @@
+it has been identified that visually impaired students do not engaged in science subjects like math, physics, biology chemistry and ore, hence the math vision assist enables them to draw and understand diagras so as no to be left out. made by MIIRO DEOGRATIUS a subject to the problem hence created a solutiion.       
