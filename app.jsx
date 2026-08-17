@@ -1,8 +1,9 @@
- import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "./home";
-import Upload from "./upload";
-import Generate from "./generate";
+import Home from "./pages/Home";
+import Upload from "./pages/Upload";
+import Generate from "./pages/Generate";
+import About from "./pages/About";
 
 function App() {
   return (
@@ -23,6 +24,11 @@ function App() {
         <Route
           path="/generate"
           element={<Generate />}
+        />
+
+        <Route
+          path="/about"
+          element={<About />}
         />
 
       </Routes>
